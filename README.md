@@ -1,2 +1,2 @@
 # MemoriaDasRuas
-Nome sobre o projetos
+Nome sobre o projeto
